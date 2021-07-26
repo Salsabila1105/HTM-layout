@@ -1,4 +1,4 @@
-html, body {
+* {
     margin: 0;
    padding: 0;
 }
@@ -27,4 +27,8 @@ html, body {
 .footer {
     background-color: rgb(23, 131, 107);
     height: 300px;
+}
+* {
+    margin: 0;
+   padding: 0;
 }
